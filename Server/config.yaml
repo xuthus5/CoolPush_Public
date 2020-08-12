@@ -1,0 +1,43 @@
+environments:
+  # 项目名称
+  project_name: CoolPush
+  # 服务地址端口配置
+  server: :80
+  https:
+    # 是否开启 https 默认开启 http
+    enable: false
+    # 证书地址
+    cert_file: cert.crt
+    # 私钥地址
+    key_file: key.key
+  # oauth授权
+  oauth:
+    github:
+      client_id: 
+      client_secret: 
+    gitee:
+      client_id: 
+      client_secret: 
+      callback: 
+    osc:
+      client_id: 
+      client_secret: 
+      callback: 
+    qq:
+      client_id: 
+      client_secret: 
+      callback: 
+  # jwt 配置项
+  jwt:
+    skey: SWtPI3RNJmUjQW
+    issuer: CoolPush
+    subject: cool_push_auth_login
+    expires: 86400
+  # mysql连接 DSN格式  先创建coolpush数据库
+  mysql: username:password@tcp(host:port)/coolpush?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local
+  # 发起send的地址 不需要端口
+  cqhttp: http://127.0.0.1
+  # 机器人列表 QQ:PORT
+  robots:
+    qq1: :5700
+    qq2: :5701

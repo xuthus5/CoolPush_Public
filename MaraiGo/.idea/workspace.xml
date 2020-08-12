@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f087228d-ad62-40b1-b0b1-153f2e028871" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fmRgv0neymACnpQZzAAvxLt7bu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <auto-vendoring-mode>false</auto-vendoring-mode>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1022" y="275" width="677" height="850" key="#GOPATH" timestamp="1596821456744">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1022" y="275" width="677" height="850" key="#GOPATH/0.0.2560.1400@0.0.2560.1400" timestamp="1596821456744" />
+    <state x="1078" y="395" key="FileChooserDialogImpl" timestamp="1596821452463">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1078" y="395" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596821452463" />
+    <state x="686" y="258" key="SettingsEditor" timestamp="1596821477191">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="686" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1596821477191" />
+    <state x="560" y="211" width="773" height="996" key="find.popup" timestamp="1596823457406">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="560" y="211" width="773" height="996" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1596823457406" />
+    <state x="921" y="566" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596865146217">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="921" y="566" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596865146217" />
+  </component>
+</project>
